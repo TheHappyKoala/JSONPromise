@@ -7,7 +7,7 @@ Promise-based JSONP API
 
 import JSONP from './JSONP';
 
-<br/>
+
 
 JSONP( 'myurl' )
 
