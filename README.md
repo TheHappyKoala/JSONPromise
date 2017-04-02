@@ -3,7 +3,7 @@ Promise-based JSONP API
 
 <h2>Usage</h2>
 
-<code>
+<code style="background: '#d8d8d8'">
 
 import JSONP from './JSONP';
 
