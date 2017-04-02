@@ -10,7 +10,9 @@ import JSONP from './JSONP';
 <br/>
 
 JSONP( 'myurl' )
-  <br/>.then( ( data ) => alert( data ) )
-  <br/>.catch( ( error ) => alert( error ) );
+
+  .then( ( data ) => alert( data ) )
+  
+  .catch( ( error ) => alert( error ) );
 
 </code>
