@@ -5,8 +5,12 @@ Promise-based JSONP API
 
 <code>
 
+import JSONP from './JSONP';
+
+<br/>
+
 JSONP( 'myurl' )
-  /n .then( ( data ) => alert( data ) )
-  .catch( ( error ) => alert( error ) );
+  <br/>.then( ( data ) => alert( data ) )
+  <br/>.catch( ( error ) => alert( error ) );
 
 </code>
