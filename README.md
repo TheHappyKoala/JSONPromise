@@ -6,7 +6,7 @@ Promise-based JSONP API
 <code>
 
 JSONP( 'myurl' )
-  .then( ( data ) => alert( data ) )
+  /n .then( ( data ) => alert( data ) )
   .catch( ( error ) => alert( error ) );
 
 </code>
