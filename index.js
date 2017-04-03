@@ -2,7 +2,7 @@
  * Darrell Huffman, 2017-04-02
  **/
 
-export default function ( url ) => {
+export default function ( url ) {
 
   /**
    * Create a script element
