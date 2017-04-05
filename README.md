@@ -6,7 +6,7 @@ Promise-based JSONP API
 <code>
 import JSONP from './index';
 </code>
-
+<br />
 <code>
 JSONP( 'myurl' )
   .then( ( data ) => alert( data ) )
